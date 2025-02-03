@@ -1,1 +1,1 @@
-# winter25-sec4
+# INFS3203 - Winter 2025 | Sections 2 and 4
